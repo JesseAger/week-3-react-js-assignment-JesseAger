@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useLocalStorage } from '../hooks/useLocalStorage';
+import { useLocalStorage } from '../utils/useLocalStorage';
 import TaskItem from '../components/TaskItem';
 import Button from '../components/Button';
 
